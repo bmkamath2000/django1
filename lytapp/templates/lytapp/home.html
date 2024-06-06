@@ -1,0 +1,11 @@
+{% extends 'lytapp/layout.html' %}
+
+{% block title %}Home Page{% endblock %}
+
+
+{% block content %}
+{%for i in param1%}
+    <h1>Welcome to Our Website!</h1>
+    <h2>{{i}}</h2>
+    {%endfor%}
+    {% endblock %}
