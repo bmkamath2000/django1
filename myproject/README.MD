@@ -34,6 +34,9 @@ This is a Django web application project.
 
 4. Access the application at `http://localhost:8000`
 
+Snapshot:
+
+
 ## Project Structure
 
 - `myproject/` - Main project directory
